@@ -1,11 +1,11 @@
-# 🦅 STALLION OS — DIGITAL REVELATION EDITION
+# 🦅 STALLION OS v1.0— DIGITAL REVELATION EDITION
 ### The High-Performance AI & Cyber-Defense Engine of the Safeway Guardian Ecosystem  
 ### Powered by Fedora Core | SG QUANTUM v3.0 | TRINITY AI | EAGLE EYE | SG CYBER SHIELD
 
 ---
 
 ## 🌌 Vision
-STALLION OS represents the next Digital Revelation in the Safeway Guardian Ecosystem.  
+STALLION OS v1.0 represents the next Digital Revelation in the Safeway Guardian Ecosystem.  
 It is the **supreme power engine**, built for national-scale AI, cyber-defense, disaster response,
 finance, health systems, robotics, and future quantum infrastructure.
 
